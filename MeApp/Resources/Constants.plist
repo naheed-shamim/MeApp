@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SocialMediaOptions</key>
+	<array>
+		<dict>
+			<key>title</key>
+			<string>Instagram</string>
+			<key>imgLink</key>
+			<string>logo.jpg</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Instagram</string>
+			<key>imgLink</key>
+			<string>logo.jpg</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Instagram</string>
+			<key>imgLink</key>
+			<string>logo.jpg</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Instagram</string>
+			<key>imgLink</key>
+			<string>logo.jpg</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Instagram</string>
+			<key>imgLink</key>
+			<string>logo.jpg</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Instagram</string>
+			<key>imgLink</key>
+			<string>logo.jpg</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Instagram</string>
+			<key>imgLink</key>
+			<string>logo.jpg</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Instagram</string>
+			<key>imgLink</key>
+			<string>logo.jpg</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Instagram</string>
+			<key>imgLink</key>
+			<string>logo.jpg</string>
+		</dict>
+	</array>
+	<key>IdentificationOptions</key>
+	<array>
+		<string>Current Photo</string>
+		<string>Birth Certificate</string>
+		<string>Driver&apos;s License</string>
+		<string>Social Security Card</string>
+		<string>Passport</string>
+		<string>Other</string>
+	</array>
+	<key>HomeOptions</key>
+	<array>
+		<dict>
+			<key>title</key>
+			<string>Identification</string>
+			<key>imgLink</key>
+			<string>logo.png</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Social Media</string>
+			<key>imgLink</key>
+			<string>logo.png</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Medical History</string>
+			<key>imgLink</key>
+			<string>logo.png</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Family History</string>
+			<key>imgLink</key>
+			<string>logo.png</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Work &amp; School</string>
+			<key>imgLink</key>
+			<string>logo.png</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Accomplishments</string>
+			<key>imgLink</key>
+			<string>logo.png</string>
+		</dict>
+	</array>
+</dict>
+</plist>

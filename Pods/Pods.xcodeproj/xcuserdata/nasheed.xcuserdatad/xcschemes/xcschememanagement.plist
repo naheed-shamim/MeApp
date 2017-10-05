@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>CVCalendar.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-MeApp.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>XLPagerTabStrip-XLPagerTabStrip.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>XLPagerTabStrip.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>441DCB0534392152A9604CADA717FC3F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A6B5DD58DA3D2806DB0CE7AB6CE7896F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A7E6A0A1725C996B1B9D89BBC8A251B9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F6204A345A37C6CEE4D4E8E67F6A48C5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
