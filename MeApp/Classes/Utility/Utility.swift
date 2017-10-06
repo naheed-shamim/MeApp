@@ -70,7 +70,6 @@ class Utility: NSObject {
     
     
     
-    
     // Deletes the specified file from the Document Directory
     class func clearDocumentDirectory(filename:String)
     {

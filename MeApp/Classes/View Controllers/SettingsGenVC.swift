@@ -19,10 +19,16 @@ class SettingsGenVC: UIViewController, IndicatorInfoProvider , UITextFieldDelega
     @IBOutlet weak var birthdateTF: UnderlinedTextField!
     @IBOutlet weak var genderTF: UnderlinedTextField!   
     
+    @IBOutlet weak var mScrollView: UIScrollView!
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        KeyboardManager.shared.addNotification(onScrollView: mScrollView)
         loadUI()
+    }
+    
+    deinit {
+        KeyboardManager.shared.removeNotification()
     }
     
     override func viewWillAppear(_ animated: Bool) {
@@ -67,6 +73,11 @@ class SettingsGenVC: UIViewController, IndicatorInfoProvider , UITextFieldDelega
         {
             Utility.showDatePicker(dateTextField: textField)
         }
+    }
+    
+    func textFieldShouldReturn(_ textField: UITextField) -> Bool {
+        dismissKeyboard()
+        return false
     }
     
     func textField(_ textField: UITextField, shouldChangeCharactersIn range: NSRange, replacementString string: String) -> Bool {
