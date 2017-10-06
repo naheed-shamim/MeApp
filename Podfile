@@ -5,8 +5,7 @@ target ‘MeApp’ do
   # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
   use_frameworks!
 
-  # Pods for MeApp
-pod 'CVCalendar', '~> 1.5.2'
+pod 'FSCalendar'
 
 pod 'XLPagerTabStrip', :git => 'https://github.com/KelvinJin/XLPagerTabStrip', :branch => 'swift3'
 

@@ -72,6 +72,9 @@ class HomeVC: UIViewController, UICollectionViewDelegate,UICollectionViewDataSou
                 case .WorkSchool:
                     self.performSegue(withIdentifier: "workSchool", sender: nil)
                     break
+                case .Accomplishments:
+                    self.performSegue(withIdentifier: "accomplishments", sender: nil)
+                    break
                 default:
                     print("Default")
             }

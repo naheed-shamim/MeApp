@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>CVCalendar.xcscheme</key>
+		<key>FSCalendar.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
@@ -27,22 +27,22 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>441DCB0534392152A9604CADA717FC3F</key>
+		<key>0B85BDF93F37436453ACCA0B37AB95A9</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>A6B5DD58DA3D2806DB0CE7AB6CE7896F</key>
+		<key>2A2A4E4F02C011CE1B8951D2AC8E1733</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>A7E6A0A1725C996B1B9D89BBC8A251B9</key>
+		<key>5178AE4CE29B0E9D38C00F0731058682</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>F6204A345A37C6CEE4D4E8E67F6A48C5</key>
+		<key>C5A2DB7A84B7B78E359870D2E1B24AA7</key>
 		<dict>
 			<key>primary</key>
 			<true/>

@@ -14,10 +14,10 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '5178AE4CE29B0E9D38C00F0731058682'
-               BlueprintName = 'XLPagerTabStrip-XLPagerTabStrip'
+               BlueprintIdentifier = 'C5A2DB7A84B7B78E359870D2E1B24AA7'
+               BlueprintName = 'FSCalendar'
                ReferencedContainer = 'container:Pods.xcodeproj'
-               BuildableName = 'XLPagerTabStrip.bundle'>
+               BuildableName = 'FSCalendar.framework'>
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
